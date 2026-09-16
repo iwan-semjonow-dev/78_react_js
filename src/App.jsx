@@ -8,7 +8,8 @@ import "./App.css";
 
 // Homeworks imports
 // import Homework02 from "./homeworks/Homework02/Homework02";
-import Homework03 from "./homeworks/Homework03/Homework03";
+// import Homework03 from "./homeworks/Homework03/Homework03";
+import Homework04 from "./homeworks/Homework04/Homework04";
 
 
 function App() {
@@ -24,7 +25,8 @@ function App() {
       {/* <Lesson03/> */}
       {/* Lesson 04. State */}
       {/* <Lesson04/> */}
-      <Homework03/>
+      {/* <Homework03/> */}
+      <Homework04/>
     </div>
   );
 }
